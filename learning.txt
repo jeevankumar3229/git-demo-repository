@@ -1,0 +1,4 @@
+My learning jouney in mountblue is going good. I learnt about many topics which I was not aware about.
+I learned about mutiple cli commands which includes basic touch, cd, pwd, mkdir, rm,rmdir, cat, less, more, tail, head, apt,cp, grep, config, wc, tree, chown,chmod, mv,ps and many more.
+I worked on drill1 and drill2 commands.
+I learned about how to create a git repository, cloning a file,commiting the changes, pushing the changes to github and also creating public ssh key.
